@@ -30,17 +30,15 @@ Cinema Room Manager - project from Hyperskill
 
 <p><b>Examples</b></p> 
 
-Enter the number of rows:
-> 6
-Enter the number of seats in each row:
-> 6
-
+<code>Enter the number of rows:</code><br>
+<code>> 6</code><br>
+<code>Enter the number of seats in each row:</code><br>
+<code>> 6</code><br>
 <code>1. Show the seats</code><br>
 <code>2. Buy a ticket</code><br>
 <code>3. Statistics</code><br>
 <code>0. Exit</code><br>
 <code>> 3</code><br>
-<code></code><br>
 <code>Number of purchased tickets: 0</code><br>
 <code>Percentage: 0.00%</code><br>
 <code>Current income: $0</code><br>
